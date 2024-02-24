@@ -1,6 +1,6 @@
 # Codewars
 
-A collection of all my Kattis solutions over the past years
+A collection of all my Codewars solutions over the past years
 
 ## Introduction
 
